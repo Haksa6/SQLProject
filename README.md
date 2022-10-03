@@ -1,9 +1,9 @@
-#SQL PROJECT
+# SQL PROJECT
 
 - Database done with sql and visualiazing with python
 
 Concept model
-![Screenshot](concept model sql.png)
+![Screenshot](conceptsql.png)
 
 Relational model
-![Screenshot](relational model sql.png)
+![Screenshot](relationalsql.png)
